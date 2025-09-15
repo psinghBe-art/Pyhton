@@ -18,7 +18,7 @@
 # Question 3
 # def reverse_string(text):
 #     print(text[::-1])
-# msg = "i am karman"
+# msg = "i am Prabhjot"
 # reverse_string(msg)
 
 # Question 4
